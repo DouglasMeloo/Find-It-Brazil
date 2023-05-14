@@ -673,9 +673,13 @@ nav.navbar-white .fa-bars{
     display: block;
     height: 150px;
 }
+.host{
+    display: flex;
+    align-items: center;
+}
 .host img{
-    width: 80px;
-    border-radius: 10%;
+    width: 90px;
+    border-radius: 30%;
     margin-right: 30px;
 }
 .host h2{
@@ -687,10 +691,59 @@ nav.navbar-white .fa-bars{
 }
 .contact-host{
     display: inline-block;
-    margin: 40px 0 40px 120px;
+    margin: -5px 0 40px 120px;
     text-decoration: none;
     color: #555;
     padding: 15px 50px;
     border: 1px solid #ff5361;
     border-radius: 8px;
+}
+
+/*-------media query for house details page-------*/
+
+@media only screen and (max-width: 700px){
+    .house-details{
+        margin-top: 150px;
+    }
+    .row p{
+        margin-top: 10px;
+    }
+    .gallery{
+        grid-template-areas: 'first first' '. .' '. .';
+    }
+    .small-details h2{
+        font-size: 20px;
+        margin-top: 24px;
+    }
+    .small-details h4{
+        text-align: left;
+        margin: 10px;
+        font-size: 18px;
+    }
+    .check-form{
+        padding: 10px 30px;
+    }
+    .check-form div{
+        padding: 20px 0;
+        width: 100%;
+    }
+    .check-form input{
+        border-bottom: 1px solid #ccc;
+        width: 100%;
+        padding-bottom: 5px;
+    }
+    .check-form button{
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+        border-radius: 4px;
+    }
+    .host{
+        display: block;
+        line-height: 20px;
+    }
+    .contact-host{
+        margin: 40px 0;
+    }
+
 }
