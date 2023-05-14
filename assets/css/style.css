@@ -669,3 +669,9 @@ nav.navbar-white .fa-bars{
     display: block;
     margin-bottom: 16px;
 }
+.carlos-img{
+    display: block;
+    width: 150px;
+    height: 200px;
+    border-radius: 8px;
+}
