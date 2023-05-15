@@ -154,6 +154,11 @@ nav{
     font-size: 20px;
     
 }
+.trending a{
+    font-size: 16px;
+    font-style: none;
+}
+
 
 /*-----call to action------*/
 
