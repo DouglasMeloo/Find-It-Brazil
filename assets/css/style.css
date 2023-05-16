@@ -19,6 +19,7 @@
     color: #fff;
     padding-top: 50px;
 }
+
 /*------Navigation links------*/
 nav{
     display: flex;
@@ -51,6 +52,7 @@ nav{
     text-decoration: none;
     font-size: 14px;
 }
+
 /*---------Navigation Bar---------*/
 .container{
     padding: 0 7%;
