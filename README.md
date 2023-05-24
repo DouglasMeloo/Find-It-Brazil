@@ -26,3 +26,10 @@ to prioritize user safety, comfort and cleanliness, ensuring a reliable and secu
 - Access accommodation details and pricing.
 - Register for an account to access additional features.
 
+## Getting Started
+
+To run the project locally, follow these steps below.
+
+- Clone the repository: 'git clone<https://github.com/DouglasMeloo/Find-It-Brazil.git>'
+- Navigate to the project directory link: https://douglasmeloo.github.io/Find-It-Brazil/ 
+
