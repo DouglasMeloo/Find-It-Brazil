@@ -53,4 +53,4 @@ Contributions are welcome if you would like to contribute to the project, please
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [2023 License](LICENSE).
