@@ -8,74 +8,81 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../images/RioBackground.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/RioBackground.jpg);
     background-size: cover;
-    background-position: center;   
+    background-position: center;
 }
-.find-it{
+
+.find-it {
     font-size: 45px;
     font-weight: 600;
     color: #fff;
 }
-@media only screen and (min-width: 700px){
-    .find-it{
+
+@media only screen and (min-width: 700px) {
+    .find-it {
         margin-left: 145px;
         padding-top: 50px;
     }
 }
+
 /*---------Register link--------*/
 
-* {box-sizing: border-box}
+* {
+    box-sizing: border-box
+}
 
 .container-register {
     padding: 16px;
-  }
+}
 
-.container-register input[type=text], input[type=password] {
+.container-register input[type=text],
+input[type=password] {
     width: 100%;
     padding: 15px;
     margin: 5px 0 22px 0;
     display: inline-block;
     border: none;
     background: #f1f1f1;
-  }
+}
 
-  .container-register input[type=text]:focus, input[type=password]:focus {
-  background-color: #ddd;
-  outline: none;
+.container-register input[type=text]:focus,
+input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
 }
 
 hr {
-  border: 1px solid #f1f1f1;
-  margin-bottom: 25px;
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
 }
 
 .registerbtn {
-  background-color: #04AA6D;
-  color: white;
-  padding: 16px 20px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
 }
 
 .registerbtn:hover {
-  opacity:1;
+    opacity: 1;
 }
 
 a {
-  color: dodgerblue;
+    color: dodgerblue;
 }
 
 .signin {
-  background-color: #f1f1f1;
-  text-align: center;
+    background-color: #f1f1f1;
+    text-align: center;
 }
 
 /*------Navigation links------*/
-nav{
+nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -84,18 +91,18 @@ nav{
 
 
 
-.nav-links li{
+.nav-links li {
     list-style: none;
     display: inline-block;
     margin: 10px 30px;
 }
 
-.nav-links li a{
+.nav-links li a {
     text-decoration: none;
     color: #fff;
 }
 
-.register-btn{
+.register-btn {
     background: #fff;
     color: #000;
     padding: 8px 20px;
@@ -105,11 +112,11 @@ nav{
 }
 
 /*---------Navigation Bar---------*/
-.container{
+.container {
     padding: 0 7%;
 }
 
-.header h1{
+.header h1 {
     font-size: 4vw;
     font-weight: 500;
     color: #fff;
@@ -117,7 +124,7 @@ nav{
     padding-top: 22%;
 }
 
-.search-bar{
+.search-bar {
     background: #fff;
     width: 70%;
     margin: 30px auto;
@@ -125,20 +132,20 @@ nav{
     border-radius: 50px;
 }
 
-.search-bar form{
+.search-bar form {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
 }
 
-.search-bar form input{
+.search-bar form input {
     display: block;
     border: 0;
     outline: none;
     background: transparent;
 }
 
-.search-bar form button{
+.search-bar form button {
     background: #ff5361;
     width: 55px;
     height: 55px;
@@ -148,42 +155,42 @@ nav{
     cursor: pointer;
 }
 
-.search-bar form button img{
+.search-bar form button img {
     width: 20px;
     margin-top: 7px;
 }
 
-.location-input{
+.location-input {
     flex: 1;
 }
 
-.search-bar form label{
+.search-bar form label {
     font-weight: 600;
 }
 
 /* ------most visited cities-------*/
 
-.sub-title{
+.sub-title {
     margin: 50px 0 20px;
     font-size: 2.2vw;
     font-weight: 500;
     color: #333;
 }
 
-.exclusives{
+.exclusives {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 30px;
 }
 
-.exclusives div img{
+.exclusives div img {
     width: 100%;
     border-radius: 10px;
 }
 
 /*---------hotspots--------*/
 
-.trending{
+.trending {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 30px;
@@ -195,26 +202,27 @@ nav{
     color: #333;
 }
 
-.trending div img{
+.trending div img {
     width: 100%;
-    border-radius: 10px; 
+    border-radius: 10px;
 
 }
 
-.trending h3{
+.trending h3 {
     font-weight: 600;
     margin-top: 10px;
     font-size: 20px;
-    
+
 }
-.trending a{
+
+.trending a {
     font-size: 16px;
     font-style: none;
 }
 
 /*------------about msg---------- */
 
-.about-msg{
+.about-msg {
     text-align: center;
     margin: 80px 0;
     color: #333;
@@ -222,28 +230,28 @@ nav{
 
 }
 
-.about-msg h2{
+.about-msg h2 {
     font-size: 28px;
-    margin-bottom: 30px;    
+    margin-bottom: 30px;
     font-weight: 500;
 }
 
 /*-------footer-------*/
 
-.footer{
+.footer {
     margin: 80px 0 10px;
     text-align: center;
 
 }
 
-.footer a{
+.footer a {
     text-decoration: none;
     color: #999;
     font-size: 30px;
     margin: 0 10px;
 }
 
-.footer hr{
+.footer hr {
     background: #999;
     height: 1px;
     width: 100%;
@@ -251,15 +259,15 @@ nav{
     margin: 20px 0;
 }
 
-.footer p{
+.footer p {
     padding-bottom: 15px;
 }
 
-.active{
+.active {
     position: relative;
 }
 
-.active::after{
+.active::after {
     content: '';
     background: #fff;
     width: 25px;
@@ -271,14 +279,14 @@ nav{
     border-radius: 2px;
 }
 
-nav .fa-bars{
+nav .fa-bars {
     display: none;
 }
 
 /*------for small screen devices------*/
 
-@media only screen and (max-width: 700px){
-    .find-it{
+@media only screen and (max-width: 700px) {
+    .find-it {
         z-index: 105;
         position: fixed;
         top: 1rem;
@@ -288,33 +296,33 @@ nav .fa-bars{
         overflow: hidden;
     }
 
-    nav{
+    nav {
         position: fixed;
         top: 0;
         z-index: 100;
         display: inline-block;
         width: 100%;
         padding: 100px 7% 0;
-        background: #000;   
+        background: #000;
         text-align: right;
         max-height: 100px;
         overflow: hidden;
         transition: max-height 0.5s;
     }
 
-    nav .nav-links li{
+    nav .nav-links li {
         margin: 10px 0;
         display: block;
     }
 
-    .register-btn{
+    .register-btn {
         margin: 15px 0 30px;
         display: inline-block;
     }
 
-    nav .fa-bars{
+    nav .fa-bars {
         display: block;
-        position: fixed;    
+        position: fixed;
         top: 4%;
         right: 7%;
         color: #fff;
@@ -322,34 +330,34 @@ nav .fa-bars{
 
     }
 
-    .active::after{
+    .active::after {
         left: -40%;
         transform: translateX(0, 50%);
         bottom: 50%;
     }
 
-    .hidemenu{
+    .hidemenu {
         max-height: 300px;
     }
 
-    .header h1{
+    .header h1 {
         padding-top: 200px;
         font-size: 7vw;
     }
 
-    .search-bar{
+    .search-bar {
         width: 90%;
-        margin: 30px;   
+        margin: 30px;
         padding: 20px 10px 30px;
         border-radius: 5px;
         position: relative;
     }
 
-    .search-bar form{
+    .search-bar form {
         display: block;
     }
 
-    .search-bar form input{
+    .search-bar form input {
         border-bottom: 1px solid #ddd;
         width: 100%;
         margin-bottom: 20px;
@@ -357,38 +365,38 @@ nav .fa-bars{
         padding-bottom: 10px;
     }
 
-    .search-bar form button{
+    .search-bar form button {
         position: absolute;
         bottom: 0;
         left: 50%;
         transform: translate(-50%, 50%);
     }
 
-    .sub-title{
+    .sub-title {
         font-size: 6vw;
     }
 
-    .cta{
+    .cta {
         padding: 15% 5%;
     }
 
-    .cta h3{
+    .cta h3 {
         font-size: 7vw;
         line-height: 8vw;
     }
 
-    .cta p{
+    .cta p {
         font-size: 14px;
     }
 
-    .cta-btn{
+    .cta-btn {
         padding: 6px 15px;
         border-radius: 4px;
         margin-top: 14px;
         font-size: 14px;
     }
 
-    .about-msg{
+    .about-msg {
         font-size: 15px;
     }
 
@@ -396,50 +404,50 @@ nav .fa-bars{
 
 /*-------acomodation details page------*/
 
-.navbar-white{
+.navbar-white {
     background: #fff;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
 }
 
-.navbar-white .nav-links li a{
+.navbar-white .nav-links li a {
     color: #000;
 }
 
-.navbar-white .register-btn{
+.navbar-white .register-btn {
     background: #ff5361;
     color: #fff;
 }
 
-nav.navbar-white .fa-bars{
+nav.navbar-white .fa-bars {
     color: #000;
 }
 
-.navbar-white .active::after{
+.navbar-white .active::after {
     background-color: #ff5361;
 }
 
-.list-container{
-    margin-top: 50px;   
+.list-container {
+    margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
-.left-col{
+.left-col {
     flex-basis: 70%;
 }
 
-.right-col{
+.right-col {
     flex-basis: 25%;
 }
 
-.left-col h1{
+.left-col h1 {
     color: #333;
     font-weight: 600;
     margin-bottom: 30px;
 }
 
-.house{
+.house {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -447,94 +455,96 @@ nav.navbar-white .fa-bars{
     border-top: 1px solid #ccc;
 }
 
-.house-img{
+.house-img {
     flex-basis: 40%;
 }
 
-.house-info{
+.house-info {
     flex-basis: 58%;
     color: #555;
 }
 
-.house-img img{
+.house-img img {
     width: 100%;
     border-radius: 12px;
-} 
+}
 
-.house-info h3{
+.house-info h3 {
     font-weight: 600;
     color: #333;
     font-size: 22px;
     margin: 4px 0;
 }
 
-.house-info i{
+.house-info i {
     color: #ff5361;
     font-size: 18px;
     margin: 10px 1px;
 }
 
-.house-price{
+.house-price {
     text-align: right;
 }
 
-.house-price h4{
+.house-price h4 {
     font-size: 20px;
 }
 
-.house-price h4 span{
+.house-price h4 span {
     font-size: 16px;
     font-weight: 500;
 }
+
 /*------side bar-------*/
 
-.sidebar{
+.sidebar {
     border: 1px solid #999;
     padding: 20px 30px;
     margin-top: 30px;
 }
 
-.sidebar h2{
+.sidebar h2 {
     font-weight: 500;
 }
 
-.sidebar h3{
+.sidebar h3 {
     font-weight: 500;
     margin: 20px 0 10px;
 }
 
-.filter{
+.filter {
     display: flex;
     align-items: center;
     color: #555;
     margin-bottom: 10px;
 }
 
-.filter p{
+.filter p {
     flex: 1;
 }
 
-.filter input{
+.filter input {
     margin-right: 15px;
     cursor: pointer;
 }
 
-.sidebar-link{
+.sidebar-link {
     text-align: right;
     margin: 20px 0;
 }
-.sidebar-link a{
+
+.sidebar-link a {
     text-decoration: none;
 }
 
-.pagination{
+.pagination {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 40px 0;
 }
 
-.pagination span{
+.pagination span {
     margin: 10px 8px;
     width: 40px;
     height: 40px;
@@ -544,30 +554,38 @@ nav.navbar-white .fa-bars{
     cursor: pointer;
 }
 
-.pagination .current{
+.pagination .current {
     background: #333;
     color: #fff;
 }
 
 /*--------small screen for listing page--------*/
 
-@media only screen and (max-width: 700px){
-    .list-container{
+@media only screen and (max-width: 700px) {
+    .list-container {
         margin-top: 150px;
     }
-    .left-col, .right-col, .house-img, .house-info{
+
+    .left-col,
+    .right-col,
+    .house-img,
+    .house-info {
         flex-basis: 100%;
     }
-    .left-col h1{
+
+    .left-col h1 {
         font-size: 22px;
     }
-    .house-info h3{
+
+    .house-info h3 {
         font-size: 18px;
     }
-    .house-info i{
+
+    .house-info i {
         font-size: 16px;
     }
-    .pagination span{
+
+    .pagination span {
         margin: 10px 2px;
         width: 30px;
         height: 30px;
@@ -578,49 +596,60 @@ nav.navbar-white .fa-bars{
 
 /*--------house details page-------*/
 
-.house-details{
+.house-details {
     padding: 0 12%;
 }
-.house-title{
+
+.house-title {
     margin-top: 50px;
 }
-.house-title h1{
+
+.house-title h1 {
     font-weight: 600;
 }
-.house-title .row{
+
+.house-title .row {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     margin: 10px 0;
 }
-.house-title span{
+
+.house-title span {
     margin: 0 20px;
 }
-.house-title i{
+
+.house-title i {
     color: #ff5361;
     font-size: 14px;
 }
-.gallery{
+
+.gallery {
     display: grid;
-    grid-gap: 10px; 
+    grid-gap: 10px;
     grid-template-areas: 'first first . .' 'first first . .';
 }
-.gallery div img{
+
+.gallery div img {
     width: 100%;
     display: block;
     border-radius: 10px;
 }
-.gallery-img-1{
+
+.gallery-img-1 {
     grid-area: first;
 }
-.small-details h2{
+
+.small-details h2 {
     font-weight: 500;
 }
-.small-details h4{
+
+.small-details h4 {
     text-align: right;
     font-size: 22px;
 }
-.line{
+
+.line {
     border: 0;
     height: 1px;
     background: #ccc;
@@ -628,30 +657,35 @@ nav.navbar-white .fa-bars{
     max-width: 800px;
     margin: 20px 0 50px;
 }
-.check-form{
+
+.check-form {
     margin: 30px 0;
     background: #fff;
-    box-shadow: 0 0 30px rgba(0,0,0,0.3);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
     border-radius: 8px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     padding: 10px 50px;
 }
-.check-form label{
+
+.check-form label {
     display: block;
 }
-.check-form div{
+
+.check-form div {
     padding: 20px;
 }
-.check-form input{
+
+.check-form input {
     background: transparent;
     border: 0;
     outline: none;
 }
-.check-form button{
+
+.check-form button {
     background: #ff5361;
-    border: 0;  
+    border: 0;
     outline: none;
     color: #fff;
     padding: 18px;
@@ -659,14 +693,17 @@ nav.navbar-white .fa-bars{
     border-radius: 8px;
     font-size: 16px;
 }
-.guest-field{
+
+.guest-field {
     flex: 1;
 }
-.details-list{
+
+.details-list {
     list-style: none;
     margin: 50px 0;
 }
-.details-list li{
+
+.details-list li {
     margin-left: 50px;
     font-size: 20px;
     font-weight: 500;
@@ -674,57 +711,70 @@ nav.navbar-white .fa-bars{
     color: #555;
     position: relative;
 }
-.details-list li span{
+
+.details-list li span {
     display: block;
     font-weight: 400;
     font-size: 16px;
 }
-.details-list li i{
+
+.details-list li i {
     position: absolute;
     top: 5px;
     left: -40px;
 }
-.home-desc{
+
+.home-desc {
     max-width: 700px;
     margin-bottom: 50px;
 }
-.map{
+
+.map {
     margin: 50px 0;
 }
-.map iframe{
+
+.map iframe {
     width: 100%;
     margin-bottom: 30px;
 }
-.map h3{
+
+.map h3 {
     font-size: 26px;
     font-weight: 500;
     margin-bottom: 30px;
 }
-.map b{
+
+.map b {
     display: block;
     margin-bottom: 16px;
 }
-.carlos-img{
+
+.carlos-img {
     display: block;
     height: 150px;
 }
-.host{
+
+.host {
     display: flex;
     align-items: center;
 }
-.host img{
+
+.host img {
     width: 90px;
     border-radius: 30%;
     margin-right: 30px;
 }
-.host h2{
+
+.host h2 {
     margin-bottom: 10px;
     font-weight: 500;
 }
-.host i{
+
+.host i {
     color: #ff5361;
 }
-.contact-host{
+
+.contact-host {
     display: inline-block;
     margin: -5px 0 40px 120px;
     text-decoration: none;
@@ -736,48 +786,58 @@ nav.navbar-white .fa-bars{
 
 /*-------media query for house details page-------*/
 
-@media only screen and (max-width: 700px){
-    .house-details{
+@media only screen and (max-width: 700px) {
+    .house-details {
         margin-top: 150px;
     }
-    .row p{
+
+    .row p {
         margin-top: 10px;
     }
-    .gallery{
+
+    .gallery {
         grid-template-areas: 'first first' '. .' '. .';
     }
-    .small-details h2{
+
+    .small-details h2 {
         font-size: 20px;
         margin-top: 24px;
     }
-    .small-details h4{
+
+    .small-details h4 {
         text-align: left;
         margin: 10px;
         font-size: 18px;
     }
-    .check-form{
+
+    .check-form {
         padding: 10px 30px;
     }
-    .check-form div{
+
+    .check-form div {
         padding: 20px 0;
         width: 100%;
     }
-    .check-form input{
+
+    .check-form input {
         border-bottom: 1px solid #ccc;
         width: 100%;
         padding-bottom: 5px;
     }
-    .check-form button{
+
+    .check-form button {
         font-size: 14px;
         margin-top: 10px;
         margin-bottom: 15px;
         border-radius: 4px;
     }
-    .host{
+
+    .host {
         display: block;
         line-height: 20px;
     }
-    .contact-host{
+
+    .contact-host {
         margin: 40px 0;
     }
 
