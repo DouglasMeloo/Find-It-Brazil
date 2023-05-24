@@ -33,3 +33,11 @@ To run the project locally, follow these steps below.
 - Clone the repository: 'git clone<https://github.com/DouglasMeloo/Find-It-Brazil.git>'
 - Navigate to the project directory link: https://douglasmeloo.github.io/Find-It-Brazil/ 
 
+## Usage
+
+1. Open the website by running the 'https://douglasmeloo.github.io/Find-It-Brazil/' link.
+2. Navigate through the menu options to explore different sections.
+3. Use the search bar to find accommodation options.
+4. Click on 'click here' or 'Know more' on Cities links to know more about it and what to do.
+5. Register for an account to access additional features.
+
