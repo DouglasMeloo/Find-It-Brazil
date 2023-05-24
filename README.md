@@ -41,3 +41,13 @@ To run the project locally, follow these steps below.
 4. Click on 'click here' or 'Know more' on Cities links to know more about it and what to do.
 5. Register for an account to access additional features.
 
+## Contributing
+
+Contributions are welcome if you would like to contribute to the project, please follow steps below.
+
+1. Fork the repository.
+2. Create a new branch for your feature: `git checkout -b feature-name`
+3. Make the necessary changes and commit them: `git commit -am 'Add some feature'`
+4. Push the changes to your forked repository: `git push origin feature-name`
+5. Submit a pull request detailing your changes.
+
