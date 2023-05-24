@@ -51,3 +51,6 @@ Contributions are welcome if you would like to contribute to the project, please
 4. Push the changes to your forked repository: `git push origin feature-name`
 5. Submit a pull request detailing your changes.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
