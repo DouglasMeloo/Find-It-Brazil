@@ -71,8 +71,8 @@ input[type=text], select, textarea {
     background-position: 0 -250px;
     color: #ff5361;
   }
-  .thank-you p{
-    color: #111;
+  @media only screen and (max-width: 700px){
+
   }
 
 /*------Navigation links------*/
@@ -298,6 +298,8 @@ nav .fa-bars {
         margin-left: 50px;
         font-size: 6vw;
         padding: 6px 10px 6px;
+        background-size: cover;
+        
     }
 
     .sub-title {
@@ -327,7 +329,6 @@ nav .fa-bars {
     .about-msg {
         font-size: 15px;
     }
-
 }
 
 /*-------acomodation details page------*/
@@ -422,8 +423,6 @@ nav.navbar-white .fa-bars {
     font-size: 16px;
     font-weight: 500;
 }
-
-
 
 /*--------small screen for listing page--------*/
 
