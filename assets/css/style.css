@@ -102,7 +102,7 @@ nav {
     color: #fff;
 }
 
-.register-btn {
+.contact-btn {
     background: #fff;
     color: #000;
     padding: 8px 20px;
@@ -315,7 +315,7 @@ nav .fa-bars {
         display: block;
     }
 
-    .register-btn {
+    .contact-btn {
         margin: 15px 0 30px;
         display: inline-block;
     }
@@ -413,7 +413,7 @@ nav .fa-bars {
     color: #000;
 }
 
-.navbar-white .register-btn {
+.navbar-white .contact-btn {
     background: #ff5361;
     color: #fff;
 }
