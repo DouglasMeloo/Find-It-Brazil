@@ -68,8 +68,6 @@ nav {
     padding: 20px 7%;
 }
 
-
-
 .nav-links li {
     list-style: none;
     display: inline-block;
@@ -105,14 +103,6 @@ nav {
     padding: 6px 10px 6px 30px;
     border-radius: 50px;
     text-align: center;   
-}
-
-.location-input {
-    flex: 1;
-}
-
-.search-bar form label {
-    font-weight: 600;
 }
 
 /* ------most visited cities-------*/
@@ -288,35 +278,10 @@ nav .fa-bars {
     }
 
     .header h1 {
-        padding-top: 200px;
-        font-size: 7vw;
-    }
-
-    .search-bar {
-        width: 90%;
-        margin: 30px;
-        padding: 20px 10px 30px;
-        border-radius: 5px;
-        position: relative;
-    }
-
-    .search-bar form {
-        display: block;
-    }
-
-    .search-bar form input {
-        border-bottom: 1px solid #ddd;
-        width: 100%;
-        margin-bottom: 20px;
-        margin-top: 10px;
-        padding-bottom: 10px;
-    }
-
-    .search-bar form button {
-        position: absolute;
-        bottom: 0;
-        left: 50%;
-        transform: translate(-50%, 50%);
+        margin-top: 100px;
+        margin-left: 50px;
+        font-size: 6vw;
+        padding: 6px 10px 6px;
     }
 
     .sub-title {
