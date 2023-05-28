@@ -155,7 +155,11 @@ nav {
     width: 100%;
     border-radius: 10px;
 }
-
+.click-here{
+    
+    color:#111;
+    border-radius: 5px;
+}
 /*---------hotspots--------*/
 
 .trending {
