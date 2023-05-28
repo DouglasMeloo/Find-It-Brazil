@@ -16,6 +16,7 @@
 <body>
     <div class="header">
         <header class="find-it">Find It Brazil</header>
+        <!--navigation section-->
         <nav id="navbar">
             <ul class="nav-links">
                 <li><a href="index.html" class="active">Home</a></li>
@@ -25,11 +26,13 @@
             <a href="contact.html" class="contact-btn">Contact Us</a>
             <i class="fa-solid fa-bars" onclick="togglebtn()"></i>
         </nav>
+        <!--main container-->
         <div class="container">
             <h1>Find The Best Place to Stay</h1>
         </div>
     </div>
     <div class="container">
+        <!--most visited cities section-->
         <h2 class="sub-title">Most Visited Cities</h2>
         <div class="exclusives">
             <div>
@@ -78,8 +81,9 @@
                 </span>
             </div>
         </div>
-
+        <!--hotspots section-->
         <h2 class="sub-title">Hotspots</h2>
+
         <div class="trending">
             <div>
                 <img src="assets/images/amazonas.webp" alt="Amazon Rainforest">
@@ -99,9 +103,8 @@
                 <a href="https://www.youtube.com/watch?v=uSkx45SrBak" class="click-here" target="_blank"><b>Know
                         more</b></a>
             </div>
-
         </div>
-
+        <!--about section-->
         <div class="about-msg">
             <h2>About Find it Brazil</h2>
             <P>At our website, we prioritize your safety and comfort above all else. We understand that
@@ -115,7 +118,7 @@
                 throughout our rental properties.
             </P>
         </div>
-
+        <!--footer section-->
         <div class="footer">
             <a href="https://facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
             <a href="https://youtube.com/" target="_blank"><i class="fa-brands fa-youtube"></i></a>
@@ -128,6 +131,7 @@
     </div>
 
     <script>
+        // javascript function to toggle the mobile menu
         var navbar = document.getElementById("navbar");
         function togglebtn() {
             navbar.classList.toggle("hidemenu");
