@@ -70,6 +70,9 @@ input[type=text], select, textarea {
     background-size: cover;
     background-position: 0 -250px;
     color: #ff5361;
+
+/*------small screen for thank you page-----*/
+
   }
   @media only screen and (max-width: 700px){
     .thank-you{
