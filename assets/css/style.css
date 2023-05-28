@@ -72,8 +72,20 @@ input[type=text], select, textarea {
     color: #ff5361;
   }
   @media only screen and (max-width: 700px){
-
+    .thank-you{
+        background-size: cover;
+        background-position: 0 0px ; 
+        font-size: 16px;       
   }
+  .thank-you h1{
+    text-align: left;
+   
+  }
+  .thank-you h3{
+    height: 350px;
+  }
+
+}
 
 /*------Navigation links------*/
 
