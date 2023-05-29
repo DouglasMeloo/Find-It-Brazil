@@ -48,3 +48,6 @@ rental unit and its features.
 - Host Section: This section introduces the host, Carlos, who is responsible for hosting and managing the penthouse. A profile picture of Carlos is displayed, along with his name. The host's rating is indicated by stars, with a total of 483 reviews. Additional information includes Carlos's response rate of 100% and a response time of 24 hours.
 - Contact Host Button: To facilitate communication, a "Contact Host" button is provided, enabling users to reach out to Carlos for inquiries, booking requests, or any other relevant matters.
 By presenting comprehensive details and visually appealing images, the "Accommodation Details" page aims to provide potential guests with all the necessary information about the luxurious Copacabana Penthouse and encourage them to make an informed decision when planning their stay.
+
+### Online Packages - online.html
+![online Screenshot](/assets/images/onlinepackages.webp)
