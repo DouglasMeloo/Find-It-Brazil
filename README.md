@@ -1,5 +1,5 @@
 # Find It Brazil
-
+![Screenshot](./assets/images/homepage.webp)
 Website to help people find the best place to stay in Brazil.
 
 ## Table of Contents
