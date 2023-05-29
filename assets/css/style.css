@@ -68,7 +68,7 @@ input[type=text], select, textarea {
     text-align: center;
     background-image: url('../images/thankyoupage.webp');
     background-size: cover;
-    background-position: 0 -250px;
+    background-position: 0 -700px;
     color: #ff5361;
 
 /*------small screen for thank you page-----*/
@@ -76,8 +76,8 @@ input[type=text], select, textarea {
   }
   @media only screen and (max-width: 700px){
     .thank-you{
-        background-size: cover;
-        background-position: 0 0px ; 
+        background-size: 400%;
+        background-position: -550px -500px; 
         font-size: 16px;       
   }
   .thank-you h1{
