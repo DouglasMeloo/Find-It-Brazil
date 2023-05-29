@@ -67,3 +67,13 @@ Once on the "thank you page" After 3 seconds the page will bring you back to hom
 
 - Description: The "Thank You" page is a confirmation page displayed to users after they have successfully submitted a contact form or completed a specific action on the website. It provides a brief message to acknowledge the user's interaction and assures them of a response.
 - Redirect: A meta tag is included to automatically refresh the page and redirect the user to the "index.html" page after 3 seconds. This is achieved through the "http-equiv" attribute with a value of "refresh."
+
+## Deployment
+
+- Clone the Repository: Open your command line or terminal and run the following command to clone the repository to your local machine: git clone https://github.com/DouglasMeloo/Find-It-Brazil.git
+- Navigate to the Project Directory: Change to the project directory by running the following command:
+cd Find-It-Brazil
+- Access the Deployed Web Application: You can access it using the following URL: 
+https://douglasmeloo.github.io/Find-It-Brazil/
+
+
