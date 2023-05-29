@@ -63,4 +63,4 @@ Upon submitting the form, users will be redirected to a page called "Thank-you.h
 Once on the "thank you page" After 3 seconds the page will bring you back to home page.
 
 ### Thank You - thank-you.html
-![thank you Screenshot](/assets/images/thankyoupage.webp)
+![thank you Screenshot](/assets/images/thankyoupagetop.webp)
