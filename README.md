@@ -55,5 +55,5 @@ By presenting comprehensive details and visually appealing images, the "Accommod
 - Description: The "Online Packages" page showcases a selection of private accommodations available for online booking. Each package represents a different location and offers various amenities and features to cater to different preferences and needs. 
 
 ### Contact Us - contact.html
-![Contact Screenshot](/assets/images/contactuspage.webp)
+![Contact Screenshot](/assets/images/contactuspagetop.webp)
 
