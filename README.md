@@ -169,3 +169,18 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Accessibility: 94
   - Best Practices: 100
   - SEO: 100
+
+#### Thank You - thank-you.html
+![thank you Screenshot](/assets/images/thankyoupagedesktop.webp)
+- Desktop Test:
+  - Performance: 100
+  - Accessibility: 73
+  - Best Practices: 100
+  - SEO: 100
+
+![thank you Screenshot](/assets/images/thankyoupagemobile.webp)
+- Mobile Test:
+  - Performance: 100
+  - Accessibility: 73
+  - Best Practices: 100
+  - SEO: 100
