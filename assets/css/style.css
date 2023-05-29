@@ -53,6 +53,10 @@ input[type=text], select, textarea {
     background-size: cover;
     background-position: center -10px;
     height: 100vh;  
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
 .container-contact input[type="text"], .container-contact select,
@@ -61,6 +65,7 @@ input[type=text], select, textarea {
   max-width: 100%;
   display: block;
 }
+
 
 .container-contact textarea {
   height: 150px; 
