@@ -107,6 +107,22 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 ## Testing
 - Description: The web application has been tested using various tools to ensure its quality and performance.
 
-### Lighthouse Testing 
+#### Lighthouse Testing 
 - The Lighthouse tool was used to evaluate the web application's performance, accessibility, best practices, SEO, and Progressive Web App categories for both desktop and mobile devices. The following are the results for each page:
 
+#### Home page - index.html
+![home page Screenshot](/assets/images/homepagedesktop.webp)
+- Desktop Test:
+  - Performance: 99
+  - Accessibility: 94
+  - Best Practices: 100
+  - SEO: 90
+
+![home page Screenshot](/assets/images/homepagemobile.webp)
+- Mobile Test:
+  - Performance: 96
+  - Accessibility: 89
+  - Best Practices: 100
+  - SEO: 92
+
+  
