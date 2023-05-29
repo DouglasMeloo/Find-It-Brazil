@@ -27,7 +27,23 @@ The web application is a user-friendly platform designed to provide a seamless e
 
 - Description: The "Hotspots" feature presents users with a collection of enticing images, each representing a unique and captivating travel destination. These hotspots offer breathtaking natural landscapes, cultural landmarks, or exciting recreational activities. Similar to the "Most Visited Cities" feature, the starting price for experiencing each hotspot is displayed, providing users with a reference point for their travel budget. Additionally, users can click on the accompanying link to discover more about each hotspot, including recommended activities and attractions, enriching their travel planning process and ensuring a memorable journey.
 
--These features aim to inspire users to explore the beauty and diversity of Brazil's cities and hotspots, providing them with essential information to plan their travels effectively and experience the best each location has to offer.
+- These features aim to inspire users to explore the beauty and diversity of Brazil's cities and hotspots, providing them with essential information to plan their travels effectively and experience the best each location has to offer.
 
 ### Accommodation Details - Details.html
 ![details Screenshot](/assets/images/accommodationdetails.webp)
+
+- Description: The Accommodation Details page provides comprehensive information about the luxurious Copacabana Penthouse in Rio de Janeiro, Brazil. The page layout includes various section that offer a detailed overview of the
+rental unit and its features.
+- House Title and Ratings: The page begins with the house title, "Copacabana Penthouse," followed by a row displaying the rating of the accommodation. The rating is represented by stars, indicating an excellent guest experience, and the number of reviews, which stands at 365. The location of the penthouse is also mentioned, situated in the vibrant Copacabana neighborhood of Rio de Janeiro.
+- Image Gallery: A visually appealing gallery showcases multiple images of the penthouse, highlighting its breathtaking views, elegant living room, well-equipped kitchen, cozy bedrooms, and comfortable spaces for guests to enjoy during their stay.
+- Small Detaills: This section provides essential information about the accommodation, including details such as the hosting arrangement ("Entire rental unit hosted by Carlos"), the number of guests it can accommodate (4 guests), the number of beds available (2 beds), and the number of bathrooms (1 bathroom). Additionally, the nightly rate for the rental unit is stated as $200.
+- Details List: A list of key features is presented, including:
+1 - Entire Home: Guests will have the entire apartment to themselves.
+2 - Enhanced Clean: The host has committed to a thorough cleaning process.
+3 - Great Location: The location has received a high rating from 95% of recent guests.
+4 - Great Check-in Experience: 100% of recent guests have given the check-in process a 5-star rating.
+- Home Description: A descriptive paragraph provides an overview of the penthouse. It highlights the luxurious aspects of the accommodation, such as the stunning beach views, 2 bedrooms, 1 bathroom, and the capacity to comfortably host up to 4 guests. The description emphasizes the harmonious blend of modern elegance and coastal charm, promising an unforgettable beachfront experience.
+- Map Section: A map is displayed to showcase the location of the penthouse in Copacabana, Rio de Janeiro. Users can interact with the embedded Google Maps view to explore the area. A brief description of Copacabana as "the wonderful city" accompanies the map.
+- Host Section: This section introduces the host, Carlos, who is responsible for hosting and managing the penthouse. A profile picture of Carlos is displayed, along with his name. The host's rating is indicated by stars, with a total of 483 reviews. Additional information includes Carlos's response rate of 100% and a response time of 24 hours.
+- Contact Host Button: To facilitate communication, a "Contact Host" button is provided, enabling users to reach out to Carlos for inquiries, booking requests, or any other relevant matters.
+By presenting comprehensive details and visually appealing images, the "Accommodation Details" page aims to provide potential guests with all the necessary information about the luxurious Copacabana Penthouse and encourage them to make an informed decision when planning their stay.
