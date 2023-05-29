@@ -7,16 +7,17 @@ Website to help people find the best place to stay in Brazil.
 - [Description](#description)
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [Deployment](#deployment)
+- [Testing](#testing)
 - [Usage](#usage)
+- [Code Attribution](#code-attribution)
 - [Contributing](#contributing)
+- [File Organization](#file-organization)
 - [License](#license)
 
 # Description
 
-Find it Brazil is a website designed to assist users in finding accommodation options in various cities across Brazil.
-The website provides information on popular destinations, accommodation details and online packeges for bookings. Users can
-search for locations, check-in and check-out dates and the number of guests to find the best place to stay. The website aims
-to prioritize user safety, comfort and cleanliness, ensuring a reliable and secure rental experience.
+The web application is a user-friendly platform designed to provide a seamless experience for its users. It offers valuable tools and resources for people looking to stay in Brazil. With its intuitive interface and interactive features, the website makes it easy for you to get to know the place before you go and what to do. Whether you're on holiday or working trip, this website is designed to meet your needs efficiently and effectively.
 
 ## Features
 
