@@ -225,7 +225,7 @@ nav {
 
 .trending a {
     font-size: 16px;
-    font-style: none;
+    
 }
 
 /*------------about msg---------- */
@@ -340,7 +340,6 @@ nav .fa-bars {
 
     .active::after {
         left: -40%;
-        transform: translateX(0, 50%);
         bottom: 50%;
     }
 
