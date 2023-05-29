@@ -10,7 +10,6 @@ Find It Brazil is a web application designed to help users find a place to stay 
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
-- [Code Attribution](#code-attribution)
 - [Contributing](#contributing)
 - [File Organization](#file-organization)
 
@@ -105,6 +104,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 - Meta Tags Generator (HTML meta tags): Used to generate HTML meta tags for search engine optimization (SEO) and social media sharing.
 
 ## Testing
+
 - Description: The web application has been tested using various tools to ensure its quality and performance.
 
 #### Lighthouse Testing 
@@ -196,6 +196,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 
 ### Wave Testing 
 - The Wave tool was used to check for accessibility issues in the web application. The following are the results:
+
 ![wave Screenshot](/assets/images/contrasttest.webp)
 - Contrast Test:
  - Contrast Ratio: 8.59:1
@@ -208,3 +209,22 @@ https://douglasmeloo.github.io/Find-It-Brazil/
  - Structural Elements: 15
 
 -For more details and recommendations, please visit [Wave Web Accessibility Evaluation Report](https://wave.webaim.org/).
+
+## Contributing
+
+We appreciate and welcome contributions to the project! To contribute, please follow these steps:
+
+1. Fork the repository to your GitHub account.
+2. Clone the forked repository to your local machine:'git clone https://github.com/YourUsername/Find-It-Brazil.git'.
+3. Create a new branch for your feature or bug fix: 'git checkout -b feature-name'.
+4. Make the necessary changes and ensure that your code is well-tested.
+5. Commit your changes with a descriptive commit message: 'git commit -am 'Add some feature''.
+6. Push your changes to your forked repository: 'git push origin feature-name'.
+7. Open a pull request from your forked repository to the original repository.
+8. Provide a detailed description of your changes in the pull request, explaining the purpose and benefits of your contribution.
+9. Be ready to respond to feedback and make necessary changes as requested by the project maintainers.
+10. Once your pull request is approved and merged, thank you for your valuable contribution!
+
+- By following these guidelines, you help ensure a smooth and collaborative development process. We appreciate your contributions and look forward to working together to improve the project.
+
+- Thank you for your interest in contributing!
