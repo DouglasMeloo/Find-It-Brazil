@@ -185,10 +185,26 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 100
   - SEO: 100
 
-  ### W3C Validator Testing
+### W3C Validator Testing
 - The web application was tested using the W3C HTML Validator and W3C CSS Validator. The results are as follows:
+
 ![W3C HTML Screenshot](/assets/images/htmlvalidator.webp)
  - HTML Test: [W3C HTML Validator](https://validator.w3.org/)
 
 ![W3C CSS Screenshot](/assets/images/cssvalidator.webp)
  - CSS Test: [W3C CSS Validator](https://validator.w3.org/)
+
+### Wave Testing 
+- The Wave tool was used to check for accessibility issues in the web application. The following are the results:
+![wave Screenshot](/assets/images/contrasttest.webp)
+- Contrast Test:
+ - Contrast Ratio: 8.59:1
+ - WCAG AA: PASS
+ - WCAG AAA: PASS
+
+ - Errors: 0
+ - Alerts: 14
+ - Features: 9
+ - Structural Elements: 15
+
+-For more details and recommendations, please visit [Wave Web Accessibility Evaluation Report](https://wave.webaim.org/).
