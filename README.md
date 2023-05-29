@@ -61,3 +61,6 @@ By presenting comprehensive details and visually appealing images, the "Accommod
 - Submit Button: At the end of the form, there is a "Submit" button that users can click to submit their contact information and message.
 Upon submitting the form, users will be redirected to a page called "Thank-you.html" (presumably a thank-you page) indicating that their message has been successfully received.
 Once on the "thank you page" After 3 seconds the page will bring you back to home page.
+
+### Thank You - thank-you.html
+![thank you Screenshot](/assets/images/thankyoupage.webp)
