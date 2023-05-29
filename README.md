@@ -125,4 +125,17 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 100
   - SEO: 92
 
-  
+#### Accommodation Details - details.html
+![accommodation page Screenshot](/assets/images/detailspagedesktop.webp)
+- Desktop Test:
+  - Performance: 100
+  - Accessibility: 80
+  - Best Practices: 83
+  - SEO: 100
+
+![accommodation page Screenshot](/assets/images/detailspagemobile.webp)
+- Mobile Test:
+  - Performance: 96
+  - Accessibility: 86
+  - Best Practices: 83
+  - SEO: 100
