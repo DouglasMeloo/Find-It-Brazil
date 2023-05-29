@@ -64,3 +64,6 @@ Once on the "thank you page" After 3 seconds the page will bring you back to hom
 
 ### Thank You - thank-you.html
 ![thank you Screenshot](/assets/images/thankyoupagetop.webp)
+
+- Description: The "Thank You" page is a confirmation page displayed to users after they have successfully submitted a contact form or completed a specific action on the website. It provides a brief message to acknowledge the user's interaction and assures them of a response.
+- Redirect: A meta tag is included to automatically refresh the page and redirect the user to the "index.html" page after 3 seconds. This is achieved through the "http-equiv" attribute with a value of "refresh."
