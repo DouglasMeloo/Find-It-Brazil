@@ -92,5 +92,8 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 
 ## Technologies Used
 
-### Languages Used
+#### Languages Used
+- HTML
+- CSS 
+
 
