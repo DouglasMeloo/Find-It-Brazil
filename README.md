@@ -104,4 +104,9 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 - Pexels (image source): Used to download images for the project. Website: https://www.pexels.com/
 - Meta Tags Generator (HTML meta tags): Used to generate HTML meta tags for search engine optimization (SEO) and social media sharing.
 
+## Testing
+- Description: The web application has been tested using various tools to ensure its quality and performance.
+
+### Lighthouse Testing 
+- The Lighthouse tool was used to evaluate the web application's performance, accessibility, best practices, SEO, and Progressive Web App categories for both desktop and mobile devices. The following are the results for each page:
 
