@@ -95,5 +95,13 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 #### Languages Used
 - HTML
 - CSS 
+#### Framework, Libraries and Programs Used
+- GitHub (code repository): Used for version control and collaboration. Repository: DouglasMeloo/Find-It-Brazil
+- Gitpod (code editor): Used as an online development environment for coding and testing.
+- Adobe Photoshop (image editing): Used for editing and optimizing images for the web.
+- Font Awesome (icon library): Used for including icons in the project.
+- Google Fonts (web fonts): Used to enhance the typography of the web application.
+- Pexels (image source): Used to download images for the project. Website: https://www.pexels.com/
+- Meta Tags Generator (HTML meta tags): Used to generate HTML meta tags for search engine optimization (SEO) and social media sharing.
 
 
