@@ -49,10 +49,35 @@ input[type=text], select, textarea {
   }
     
   .container-contact {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
+    background-image: url('../images/contactuspage.webp');
+    background-size: cover;
+    background-position: center -10px;
+    height: 100vh;  
   }
+
+.container-contact input[type="text"], .container-contact select,
+.container-contact textarea {
+  width: 500px; 
+  max-width: 100%;
+  display: block;
+}
+
+.container-contact textarea {
+  height: 150px; 
+  display: block;
+}
+
+.container-contact input[type="submit"] {
+  width: 150px; 
+  display: block;
+}
+
+.container-contact {
+  padding: 50px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
   .thank-you {
     display: flex;
@@ -82,6 +107,16 @@ input[type=text], select, textarea {
   }
   .thank-you h3{
     height: 350px;
+  }
+  .container-contact {
+    background-size: cover;
+    background-position: 750px;
+  }
+  .container-contact input[type="text"],
+  .container-contact select,
+  .container-contact textarea {
+    width: 320px;
+    max-width: 100%;
   }
 
 }
