@@ -42,6 +42,7 @@ rental unit and its features.
 2. Enhanced Clean: The host has committed to a thorough cleaning process.
 3. Great Location: The location has received a high rating from 95% of recent guests.
 4. Great Check-in Experience: 100% of recent guests have given the check-in process a 5-star rating.
+
 ![details Screenshot](/assets/images/accommodationdetailsmap.webp)
 - Home Description: A descriptive paragraph provides an overview of the penthouse. It highlights the luxurious aspects of the accommodation, such as the stunning beach views, 2 bedrooms, 1 bathroom, and the capacity to comfortably host up to 4 guests. The description emphasizes the harmonious blend of modern elegance and coastal charm, promising an unforgettable beachfront experience.
 - Map Section: A map is displayed to showcase the location of the penthouse in Copacabana, Rio de Janeiro. Users can interact with the embedded Google Maps view to explore the area. A brief description of Copacabana as "the wonderful city" accompanies the map.
@@ -88,4 +89,8 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 7. Thank You Page: The Thank You page is displayed after submitting a message through the Contact Us page. It provides a confirmation message and informs users that their message has been received. The page also includes a note about when they can expect a response. You can access it after submitting a message through the Contact Us form.
 
 - That's it! You can now use the web application to learn more about the website, explore accommodation options, and contact the administrators if needed. Enjoy your experience!
+
+## Technologies Used
+
+# Languages Used
 
