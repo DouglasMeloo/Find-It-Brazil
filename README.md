@@ -42,7 +42,7 @@ rental unit and its features.
 2 - Enhanced Clean: The host has committed to a thorough cleaning process.
 3 - Great Location: The location has received a high rating from 95% of recent guests.
 4 - Great Check-in Experience: 100% of recent guests have given the check-in process a 5-star rating.
-![details Screenshot](/assets/images/accommodationdetails.webp)
+![details Screenshot](/assets/images/accommodationdetailsmap.webp)
 - Home Description: A descriptive paragraph provides an overview of the penthouse. It highlights the luxurious aspects of the accommodation, such as the stunning beach views, 2 bedrooms, 1 bathroom, and the capacity to comfortably host up to 4 guests. The description emphasizes the harmonious blend of modern elegance and coastal charm, promising an unforgettable beachfront experience.
 - Map Section: A map is displayed to showcase the location of the penthouse in Copacabana, Rio de Janeiro. Users can interact with the embedded Google Maps view to explore the area. A brief description of Copacabana as "the wonderful city" accompanies the map.
 - Host Section: This section introduces the host, Carlos, who is responsible for hosting and managing the penthouse. A profile picture of Carlos is displayed, along with his name. The host's rating is indicated by stars, with a total of 483 reviews. Additional information includes Carlos's response rate of 100% and a response time of 24 hours.
