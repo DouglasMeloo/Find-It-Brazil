@@ -17,7 +17,7 @@ Website to help people find the best place to stay in Brazil.
 
 # Description
 
-The web application is a user-friendly platform designed to provide a seamless experience for its users. It offers valuable tools and resources for people looking to stay in Brazil. With its intuitive interface and interactive features, the website makes it easy for you to get to know the place before you go and what to do. Whether you're on holiday or working trip, this website is designed to meet your needs efficiently and effectively.
+The web application is a user-friendly platform designed to provide a seamless experience for its users. The website provides information on popular destinations, accommodation details and online packeges. Offering valuable tools and resources for people looking to stay in Brazil. With its intuitive interface and interactive features, the website makes it easy for you to get to know the place before you go and what to do. Whether you're on holiday or working trip. The website aims to prioritize user safety, comfort and cleanliness, ensuring a reliable and secure experience. It is designed to meet your needs efficiently and effectively.
 
 ## Features
 
