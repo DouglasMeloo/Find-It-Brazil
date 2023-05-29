@@ -184,3 +184,11 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Accessibility: 73
   - Best Practices: 100
   - SEO: 100
+
+  ### W3C Validator Testing
+- The web application was tested using the W3C HTML Validator and W3C CSS Validator. The results are as follows:
+![W3C HTML Screenshot](/assets/images/htmlvalidator.webp)
+ - HTML Test: [W3C HTML Validator](https://validator.w3.org/)
+
+![W3C CSS Screenshot](/assets/images/cssvalidator.webp)
+ - CSS Test: [W3C CSS Validator](https://validator.w3.org/)
