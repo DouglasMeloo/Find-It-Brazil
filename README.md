@@ -15,3 +15,7 @@ Find It Brazil is a web application designed to help users find a place to stay 
 
 ## Description
 The web application is a user-friendly platform designed to provide a seamless experience for its users. The website provides information on popular destinations, accommodation details and online packeges. Offering valuable tools and resources for people looking to stay in Brazil. With its intuitive interface and interactive features, the website makes it easy for you to get to know the place before you go and what to do. Whether you're on holiday or working trip. The website aims to prioritize user safety, comfort and cleanliness, ensuring a reliable and secure experience. It is designed to meet your needs efficiently and effectively.
+
+## Features
+### Page 1 - index.html
+![Page 1 Screenshot](/assets/images/homepagereadme.webp)
