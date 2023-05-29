@@ -79,11 +79,13 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 ## Usage 
 
 - This web application consists of multiple pages that serve different purposes. Here is a list of the available pages:
-1. Home Page: This is the landing page of the web application. It provides an overview of the website and its purpose. You can access it by navigating to the following URL: Home Page
-2. About Page: The About page provides detailed information about the website and its features. It gives users an understanding of how the platform works and what it offers. You can access it by clicking on the "About" link in the navigation menu on the Home page.
-3. Online Packages Page: The Online Packages page showcases different accommodation options available in Brazil. It displays images, descriptions, and pricing information for each package. You can access it by clicking on the "Packages" link in the navigation menu on the Home page.
-4. Contact Us Page: The Contact Us page allows users to get in touch with the website administrators. It features a contact form where users can enter their details and send messages. You can access it by clicking on the "Contact Us" link in the navigation menu on the Home page.
-5. Thank You Page: The Thank You page is displayed after submitting a message through the Contact Us page. It provides a confirmation message and informs users that their message has been received. The page also includes a note about when they can expect a response. You can access it after submitting a message through the Contact Us form.
+1. Home Page: This is the landing page of the web application. It provides an overview of the website and its purpose. You can access it by navigating to the following URL: https://douglasmeloo.github.io/Find-It-Brazil/
+2. Click on 'click here' or 'Know more' on Cities links to know more about it and what to do.
+3. Navigate through the menu options to explore different sections.
+4. About Page: The About page provides detailed information about the website and its features. It gives users an understanding of how the platform works and what it offers. You can access it by clicking on the "About" link in the navigation menu on the Home page.
+5. Online Packages Page: The Online Packages page showcases different accommodation options available in Brazil. It displays images, descriptions, and pricing information for each package. You can access it by clicking on the "Packages" link in the navigation menu on the Home page.
+6. Contact Us Page: The Contact Us page allows users to get in touch with the website administrators. It features a contact form where users can enter their details and send messages. You can access it by clicking on the "Contact Us" link in the navigation menu on the Home page.
+7. Thank You Page: The Thank You page is displayed after submitting a message through the Contact Us page. It provides a confirmation message and informs users that their message has been received. The page also includes a note about when they can expect a response. You can access it after submitting a message through the Contact Us form.
 
 - That's it! You can now use the web application to learn more about the website, explore accommodation options, and contact the administrators if needed. Enjoy your experience!
 
