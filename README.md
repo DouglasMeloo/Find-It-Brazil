@@ -38,10 +38,10 @@ rental unit and its features.
 - Image Gallery: A visually appealing gallery showcases multiple images of the penthouse, highlighting its breathtaking views, elegant living room, well-equipped kitchen, cozy bedrooms, and comfortable spaces for guests to enjoy during their stay.
 - Small Detaills: This section provides essential information about the accommodation, including details such as the hosting arrangement ("Entire rental unit hosted by Carlos"), the number of guests it can accommodate (4 guests), the number of beds available (2 beds), and the number of bathrooms (1 bathroom). Additionally, the nightly rate for the rental unit is stated as $200.
 - Details List: A list of key features is presented, including:
-1 - Entire Home: Guests will have the entire apartment to themselves.
-2 - Enhanced Clean: The host has committed to a thorough cleaning process.
-3 - Great Location: The location has received a high rating from 95% of recent guests.
-4 - Great Check-in Experience: 100% of recent guests have given the check-in process a 5-star rating.
+1. Entire Home: Guests will have the entire apartment to themselves.
+2. Enhanced Clean: The host has committed to a thorough cleaning process.
+3. Great Location: The location has received a high rating from 95% of recent guests.
+4. Great Check-in Experience: 100% of recent guests have given the check-in process a 5-star rating.
 ![details Screenshot](/assets/images/accommodationdetailsmap.webp)
 - Home Description: A descriptive paragraph provides an overview of the penthouse. It highlights the luxurious aspects of the accommodation, such as the stunning beach views, 2 bedrooms, 1 bathroom, and the capacity to comfortably host up to 4 guests. The description emphasizes the harmonious blend of modern elegance and coastal charm, promising an unforgettable beachfront experience.
 - Map Section: A map is displayed to showcase the location of the penthouse in Copacabana, Rio de Janeiro. Users can interact with the embedded Google Maps view to explore the area. A brief description of Copacabana as "the wonderful city" accompanies the map.
@@ -76,4 +76,14 @@ following command: cd Find-It-Brazil
 - Access the Deployed Web Application: You can access it using the following URL: 
 https://douglasmeloo.github.io/Find-It-Brazil/
 
+## Usage 
+
+- This web application consists of multiple pages that serve different purposes. Here is a list of the available pages:
+1. Home Page: This is the landing page of the web application. It provides an overview of the website and its purpose. You can access it by navigating to the following URL: Home Page
+2. About Page: The About page provides detailed information about the website and its features. It gives users an understanding of how the platform works and what it offers. You can access it by clicking on the "About" link in the navigation menu on the Home page.
+3. Online Packages Page: The Online Packages page showcases different accommodation options available in Brazil. It displays images, descriptions, and pricing information for each package. You can access it by clicking on the "Packages" link in the navigation menu on the Home page.
+4. Contact Us Page: The Contact Us page allows users to get in touch with the website administrators. It features a contact form where users can enter their details and send messages. You can access it by clicking on the "Contact Us" link in the navigation menu on the Home page.
+5. Thank You Page: The Thank You page is displayed after submitting a message through the Contact Us page. It provides a confirmation message and informs users that their message has been received. The page also includes a note about when they can expect a response. You can access it after submitting a message through the Contact Us form.
+
+- That's it! You can now use the web application to learn more about the website, explore accommodation options, and contact the administrators if needed. Enjoy your experience!
 
