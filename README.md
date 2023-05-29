@@ -155,4 +155,17 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 100
   - SEO: 100
 
-  
+#### Contact Us - contact.html
+![contact page Screenshot](/assets/images/contactuspagedesktop.webp)
+- Desktop Test:
+  - Performance: 99
+  - Accessibility: 94
+  - Best Practices: 100
+  - SEO: 100
+
+![contact page Screenshot](/assets/images/contactuspagemobile.webp)
+- Mobile Test:
+  - Performance: 100
+  - Accessibility: 94
+  - Best Practices: 100
+  - SEO: 100
