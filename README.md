@@ -51,3 +51,5 @@ By presenting comprehensive details and visually appealing images, the "Accommod
 
 ### Online Packages - online.html
 ![online Screenshot](/assets/images/onlinepackages.webp)
+
+- Description: The "Online Packages" page showcases a selection of private accommodations available for online booking. Each package represents a different location and offers various amenities and features to cater to different preferences and needs. 
