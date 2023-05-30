@@ -28,7 +28,7 @@ The web application is a user-friendly platform designed to provide a seamless e
 
 - These features aim to inspire users to explore the beauty and diversity of Brazil's cities and hotspots, providing them with essential information to plan their travels effectively and experience the best each location has to offer.
 
-### Accommodation Details - details.html <p align="right">[Back to Top](#top)</p>
+### Accommodation Details - details.html <p align="right">[(Back to Top)](#top)</p>
 
 ![details Screenshot](/assets/images/accommodationdetails.webp)
 
@@ -64,7 +64,7 @@ By presenting comprehensive details and visually appealing images, the "Accommod
 Upon submitting the form, users will be redirected to a page called "Thank-you.html" (presumably a thank-you page) indicating that their message has been successfully received.
 Once on the "thank you page" After 3 seconds the page will bring you back to home page.
 
-### Thank You - thank-you.html <p align="right">[Back to Top](#top)</p>
+### Thank You - thank-you.html <p align="right">[(Back to Top)](#top)</p>
 
 ![thank you Screenshot](/assets/images/thankyoupagetop.webp)
 
@@ -95,7 +95,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 ## Technologies Used 
 
 
-#### Languages Used <p align="right">[Back to Top](#top)</p>
+#### Languages Used <p align="right">[(Back to Top)](#top)</p>
 - HTML
 - CSS 
 #### Framework, Libraries and Programs Used
@@ -114,7 +114,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 #### Lighthouse Testing 
 - The Lighthouse tool was used to evaluate the web application's performance, accessibility, best practices, SEO, and Progressive Web App categories for both desktop and mobile devices. The following are the results for each page:
 
-#### Home page - index.html <p align="right">[Back to Top](#top)</p>
+#### Home page - index.html <p align="right">[(Back to Top)](#top)</p>
 
 ![home page Screenshot](/assets/images/homepagedesktop.webp)
 - Desktop Test:
@@ -130,7 +130,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 100
   - SEO: 92
 
-#### Accommodation Details - details.html <p align="right">[Back to Top](#top)</p>
+#### Accommodation Details - details.html <p align="right">[(Back to Top)](#top)</p>
 
 ![accommodation page Screenshot](/assets/images/detailspagedesktop.webp)
 - Desktop Test:
@@ -146,7 +146,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 83
   - SEO: 100
 
-#### Online Packages -online.index <p align="right">[Back to Top](#top)</p>
+#### Online Packages -online.index <p align="right">[(Back to Top)](#top)</p>
  
 ![online page Screenshot](/assets/images/onlinepagedesktop.webp)
 - Desktop Test:
@@ -162,7 +162,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 100
   - SEO: 100
 
-#### Contact Us - contact.html <p align="right">[Back to Top](#top)</p>
+#### Contact Us - contact.html <p align="right">[(Back to Top)](#top)</p>
 
 ![contact page Screenshot](/assets/images/contactuspagedesktop.webp)
 - Desktop Test:
@@ -178,7 +178,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 100
   - SEO: 100
 
-#### Thank You - thank-you.html <p align="right">[Back to Top](#top)</p>
+#### Thank You - thank-you.html <p align="right">[(Back to Top)](#top)</p>
  
 ![thank you Screenshot](/assets/images/thankyoupagedesktop.webp)
 - Desktop Test:
@@ -204,7 +204,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 ![W3C CSS Screenshot](/assets/images/cssvalidator.webp)
  - CSS Test: [W3C CSS Validator](https://validator.w3.org/)
 
-### Wave Testing 
+### Wave Testing <p align="right">[(Back to Top)](#top)</p>
 
 - The Wave tool was used to check for accessibility issues in the web application. The following are the results:
 
