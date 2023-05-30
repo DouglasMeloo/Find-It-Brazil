@@ -61,7 +61,7 @@ By presenting comprehensive details and visually appealing images, the "Accommod
 
 - Description: The "Contact Us" page provides a convenient way for users to get in touch with the website or business, to reach out for inquiries, feedback, or any other relevant matters. It includes a contact form where users can enter their information and send messages.
 - Submit Button: At the end of the form, there is a "Submit" button that users can click to submit their contact information and message.
-Upon submitting the form, users will be redirected to a page called "Thank-you.html" (presumably a thank-you page) indicating that their message has been successfully received.
+Upon submitting the form, users will be redirected to a page called "thank-you.html" (presumably a thank-you page) indicating that their message has been successfully received.
 Once on the "thank you page" After 3 seconds the page will bring you back to home page.
 
 ### Thank You - thank-you.html <p align="right">[(Back to Top)](#top)</p>
