@@ -17,19 +17,19 @@ Find It Brazil is a web application designed to help users find a place to stay 
 The web application is a user-friendly platform designed to provide a seamless experience for its users. The website provides information on popular destinations, accommodation details and online packeges. Offering valuable tools and resources for people looking to stay in Brazil. With its intuitive interface and interactive features, the website makes it easy for you to get to know the place before you go and what to do. Whether you're on holiday or working trip. The website aims to prioritize user safety, comfort and cleanliness, ensuring a reliable and secure experience. It is designed to meet your needs efficiently and effectively.
 
 ## Features 
-### Home Page - index.html
+### Home Page - index.html 
 ![home Screenshot](/assets/images/mostvisitedcities.webp)
 
 - Description: The "Most Visited Cities" feature showcases a selection of popular cities in Brazil. Each city is represented by a captivating image, providing users with a glimpse of its unique charm and attractions. Alongside each image, the starting price for visiting the respective city is displayed, allowing users to assess the affordability of their travel plans. Furthermore, users can click on the provided link to explore a video that highlights the best things to do and see in each city, assisting them in planning their itineraries and making the most of their visit.
-<p align="right">[Back to Top](#top)</p>
+
 ![home Screenshot](/assets/images/hotspots.webp)
 
 - Description: The "Hotspots" feature presents users with a collection of enticing images, each representing a unique and captivating travel destination. These hotspots offer breathtaking natural landscapes, cultural landmarks, or exciting recreational activities. Similar to the "Most Visited Cities" feature, the starting price for experiencing each hotspot is displayed, providing users with a reference point for their travel budget. Additionally, users can click on the accompanying link to discover more about each hotspot, including recommended activities and attractions, enriching their travel planning process and ensuring a memorable journey.
 
 - These features aim to inspire users to explore the beauty and diversity of Brazil's cities and hotspots, providing them with essential information to plan their travels effectively and experience the best each location has to offer.
 
-### Accommodation Details - details.html 
-<p align="right">[Back to Top](#top)</p>
+### Accommodation Details - details.html <p align="right">[Back to Top](#top)</p>
+
 ![details Screenshot](/assets/images/accommodationdetails.webp)
 
 - Description: The Accommodation Details page provides comprehensive information about the luxurious Copacabana Penthouse in Rio de Janeiro, Brazil. The page layout includes various section that offer a detailed overview of the
@@ -51,7 +51,7 @@ rental unit and its features.
 By presenting comprehensive details and visually appealing images, the "Accommodation Details" page aims to provide potential guests with all the necessary information about the luxurious Copacabana Penthouse and encourage them to make an informed decision when planning their stay.
 
 ### Online Packages - online.html
- <p align="right">[Back to Top](#top)</p>
+
 ![online Screenshot](/assets/images/onlinepackages.webp)
 
 - Description: The "Online Packages" page showcases a selection of private accommodations available for online booking. Each package represents a different location and offers various amenities and features to cater to different preferences and needs. 
@@ -64,15 +64,14 @@ By presenting comprehensive details and visually appealing images, the "Accommod
 Upon submitting the form, users will be redirected to a page called "Thank-you.html" (presumably a thank-you page) indicating that their message has been successfully received.
 Once on the "thank you page" After 3 seconds the page will bring you back to home page.
 
-### Thank You - thank-you.html 
-<p align="right">[Back to Top](#top)</p>
+### Thank You - thank-you.html <p align="right">[Back to Top](#top)</p>
+
 ![thank you Screenshot](/assets/images/thankyoupagetop.webp)
 
 - Description: The "Thank You" page is a confirmation page displayed to users after they have successfully submitted a contact form or completed a specific action on the website. It provides a brief message to acknowledge the user's interaction and assures them of a response.
 - Redirect: A meta tag is included to automatically refresh the page and redirect the user to the "index.html" page after 3 seconds. This is achieved through the "http-equiv" attribute with a value of "refresh."
 
 ## Deployment
- <p align="right">[Back to Top](#top)</p>
 
 - Clone the Repository: Open your command line or terminal and run the following command to clone the repository to your local machine: git clone https://github.com/DouglasMeloo/Find-It-Brazil.git
 - Navigate to the Project Directory: Change to the project directory by running the 
@@ -81,7 +80,6 @@ following command: cd Find-It-Brazil
 https://douglasmeloo.github.io/Find-It-Brazil/
 
 ## Usage 
-<p align="right">[Back to Top](#top)</p>
 
 - This web application consists of multiple pages that serve different purposes. Here is a list of the available pages:
 1. Home Page: This is the landing page of the web application. It provides an overview of the website and its purpose. You can access it by navigating to the following URL: https://douglasmeloo.github.io/Find-It-Brazil/
@@ -95,9 +93,9 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 - That's it! You can now use the web application to learn more about the website, explore accommodation options, and contact the administrators if needed. Enjoy your experience!
 
 ## Technologies Used 
-<p align="right">[Back to Top](#top)</p>
 
-#### Languages Used
+
+#### Languages Used <p align="right">[Back to Top](#top)</p>
 - HTML
 - CSS 
 #### Framework, Libraries and Programs Used
@@ -110,15 +108,14 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 - Meta Tags Generator (HTML meta tags): Used to generate HTML meta tags for search engine optimization (SEO) and social media sharing.
 
 ## Testing
- <p align="right">[Back to Top](#top)</p>
 
 - Description: The web application has been tested using various tools to ensure its quality and performance.
 
 #### Lighthouse Testing 
 - The Lighthouse tool was used to evaluate the web application's performance, accessibility, best practices, SEO, and Progressive Web App categories for both desktop and mobile devices. The following are the results for each page:
 
-#### Home page - index.html 
-<p align="right">[Back to Top](#top)</p>
+#### Home page - index.html <p align="right">[Back to Top](#top)</p>
+
 ![home page Screenshot](/assets/images/homepagedesktop.webp)
 - Desktop Test:
   - Performance: 99
@@ -133,8 +130,8 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 100
   - SEO: 92
 
-#### Accommodation Details - details.html 
-<p align="right">[Back to Top](#top)</p>
+#### Accommodation Details - details.html <p align="right">[Back to Top](#top)</p>
+
 ![accommodation page Screenshot](/assets/images/detailspagedesktop.webp)
 - Desktop Test:
   - Performance: 100
@@ -149,8 +146,8 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 83
   - SEO: 100
 
-#### Online Packages -online.index
- <p align="right">[Back to Top](#top)</p>
+#### Online Packages -online.index <p align="right">[Back to Top](#top)</p>
+ 
 ![online page Screenshot](/assets/images/onlinepagedesktop.webp)
 - Desktop Test:
   - Performance: 95
@@ -165,8 +162,8 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 100
   - SEO: 100
 
-#### Contact Us - contact.html 
-<p align="right">[Back to Top](#top)</p>
+#### Contact Us - contact.html <p align="right">[Back to Top](#top)</p>
+
 ![contact page Screenshot](/assets/images/contactuspagedesktop.webp)
 - Desktop Test:
   - Performance: 99
@@ -181,8 +178,8 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - Best Practices: 100
   - SEO: 100
 
-#### Thank You - thank-you.html
- <p align="right">[Back to Top](#top)</p>
+#### Thank You - thank-you.html <p align="right">[Back to Top](#top)</p>
+ 
 ![thank you Screenshot](/assets/images/thankyoupagedesktop.webp)
 - Desktop Test:
   - Performance: 100
@@ -198,7 +195,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
   - SEO: 100
 
 ### W3C Validator Testing
-<p align="right">[Back to Top](#top)</p>
+
 - The web application was tested using the W3C HTML Validator and W3C CSS Validator. The results are as follows:
 
 ![W3C HTML Screenshot](/assets/images/htmlvalidator.webp)
@@ -208,7 +205,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
  - CSS Test: [W3C CSS Validator](https://validator.w3.org/)
 
 ### Wave Testing 
-<p align="right">[Back to Top](#top)</p>
+
 - The Wave tool was used to check for accessibility issues in the web application. The following are the results:
 
 ![wave Screenshot](/assets/images/contrasttest.webp)
@@ -224,7 +221,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 
 -For more details and recommendations, please visit [Wave Web Accessibility Evaluation Report](https://wave.webaim.org/).
 
-## Contributing <p align="right">[Back to Top](#top)</p>
+## Contributing 
 
 We appreciate and welcome contributions to the project! To contribute, please follow these steps:
 
@@ -242,7 +239,7 @@ We appreciate and welcome contributions to the project! To contribute, please fo
 - By following these guidelines, you help ensure a smooth and collaborative development process. We appreciate your contributions and look forward to working together to improve the project.
 
 - Thank you for your interest in contributing!
-<p align="right">[Back to Top](#top)</p>
+
 ## File Organization 
 
 - index.html
