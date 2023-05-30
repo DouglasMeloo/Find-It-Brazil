@@ -259,7 +259,7 @@ We appreciate and welcome contributions to the project! To contribute, please fo
 - README.md
 - .gitignore
 
-#### Explanation:  <p align="right">[Back to Top](#top)</p>
+#### Explanation:  <p align="right">[(Back to Top)](#top)</p>
 
  - The main HTML files('index.html','details.html','online.html','contact.html','thank-you.html')are placed directly in the root directory.
  - CSS code is organized in an external file called style.css and is placed in a directory named 'css'.
