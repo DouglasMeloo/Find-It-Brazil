@@ -224,8 +224,7 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 
 -For more details and recommendations, please visit [Wave Web Accessibility Evaluation Report](https://wave.webaim.org/).
 
-## Contributing
-<p align="right">[Back to Top](#top)</p>
+## Contributing <p align="right">[Back to Top](#top)</p>
 
 We appreciate and welcome contributions to the project! To contribute, please follow these steps:
 
@@ -243,9 +242,8 @@ We appreciate and welcome contributions to the project! To contribute, please fo
 - By following these guidelines, you help ensure a smooth and collaborative development process. We appreciate your contributions and look forward to working together to improve the project.
 
 - Thank you for your interest in contributing!
-
-## File Organization 
 <p align="right">[Back to Top](#top)</p>
+## File Organization 
 
 - index.html
 - details.html
@@ -264,8 +262,7 @@ We appreciate and welcome contributions to the project! To contribute, please fo
 - README.md
 - .gitignore
 
-#### Explanation: 
-<p align="right">[Back to Top](#top)</p>
+#### Explanation:  <p align="right">[Back to Top](#top)</p>
 
  - The main HTML files('index.html','details.html','online.html','contact.html','thank-you.html')are placed directly in the root directory.
  - CSS code is organized in an external file called style.css and is placed in a directory named 'css'.
