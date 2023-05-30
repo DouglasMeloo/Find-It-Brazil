@@ -248,7 +248,8 @@ We appreciate and welcome contributions to the project! To contribute, please fo
 - README.md
 - .gitignore
 
-- Explanation: 
+#### Explanation: 
+
  - The main HTML files('index.html','details.html','online.html','contact.html','thank-you.html')are placed directly in the root directory.
  - CSS code is organized in an external file called style.css and is placed in a directory named 'css'.
  - Image files used in the project are stored in the 'assets/images' directory.
