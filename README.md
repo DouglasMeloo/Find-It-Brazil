@@ -28,7 +28,7 @@ The web application is a user-friendly platform designed to provide a seamless e
 
 - These features aim to inspire users to explore the beauty and diversity of Brazil's cities and hotspots, providing them with essential information to plan their travels effectively and experience the best each location has to offer.
 
-### Accommodation Details - details.html <p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Accommodation Details - details.html <p align="right">[Back to Top](#top)</p>
 ![details Screenshot](/assets/images/accommodationdetails.webp)
 
 - Description: The Accommodation Details page provides comprehensive information about the luxurious Copacabana Penthouse in Rio de Janeiro, Brazil. The page layout includes various section that offer a detailed overview of the
