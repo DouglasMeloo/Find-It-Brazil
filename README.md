@@ -216,10 +216,10 @@ We appreciate and welcome contributions to the project! To contribute, please fo
 
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine:'git clone https://github.com/YourUsername/Find-It-Brazil.git'.
-3. Create a new branch for your feature or bug fix: 'git checkout -b feature-name'
+3. Create a new branch for your feature or bug fix: 'git checkout -b feature-name'.
 4. Make the necessary changes and ensure that your code is well-tested.
-5. Commit your changes with a descriptive commit message: 'git commit -am 'Add some feature''
-6. Push your changes to your forked repository: 'git push origin feature-name'
+5. Commit your changes with a descriptive commit message: 'git commit -am 'Add some feature''.
+6. Push your changes to your forked repository: 'git push origin feature-name'.
 7. Open a pull request from your forked repository to the original repository.
 8. Provide a detailed description of your changes in the pull request, explaining the purpose and benefits of your contribution.
 9. Be ready to respond to feedback and make necessary changes as requested by the project maintainers.
@@ -228,3 +228,29 @@ We appreciate and welcome contributions to the project! To contribute, please fo
 - By following these guidelines, you help ensure a smooth and collaborative development process. We appreciate your contributions and look forward to working together to improve the project.
 
 - Thank you for your interest in contributing!
+
+## File Organization
+
+- index.html
+- details.html
+- online.html
+- contact.html
+- thank-you.html
+- css/
+  - style.css
+- assets/
+  - images/
+    - livingroom.webp
+    - salvadorapart.webp
+    - deluxebedroom.webp
+    - curitibaapart.webp
+    - saopauloapart.webp
+- README.md
+- .gitignore
+
+- Explanation: 
+ - The main HTML files('index.html','details.html','online.html','contact.html','thank-you.html')are placed directly in the root directory.
+ - CSS code is organized in an external file called style.css and is placed in a directory named 'css'.
+ - Image files used in the project are stored in the 'assets/images' directory.
+ - 'README.md' file provides information about the project.
+ - '.gitignore' file specifies files and directories that should be ignored by version control.
