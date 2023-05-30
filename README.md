@@ -237,7 +237,6 @@ We appreciate and welcome contributions to the project! To contribute, please fo
 10. Once your pull request is approved and merged, thank you for your valuable contribution!
 
 - By following these guidelines, you help ensure a smooth and collaborative development process. We appreciate your contributions and look forward to working together to improve the project.
-
 - Thank you for your interest in contributing!
 
 ## File Organization 
