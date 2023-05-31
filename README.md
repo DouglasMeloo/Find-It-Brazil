@@ -69,7 +69,7 @@ can enter their information and send messages.
 
 ### Thank You - thank-you.html <p align="right">[(Back to Top)](#top)</p>
 
-![thank you Screenshot](/assets/images/thankyoupagetop.webp)
+![thank you Screenshot](/assets/images/thankyoupagetopo.webp)
 
 - Description: The "Thank You" page is a confirmation page displayed to users after they have successfully submitted a contact form or completed a specific action on the website. It provides a brief message to acknowledge the user's interaction and assures them of a response.
 - Redirect: A meta tag is included to automatically refresh the page and redirect the user to the "index.html" page after 3 seconds. This is achieved through the "http-equiv" attribute with a value of "refresh."
