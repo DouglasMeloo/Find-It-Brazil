@@ -10,6 +10,7 @@ Find It Brazil is a web application designed to help users find a place to stay 
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
+- [Debug](#debug)
 - [Contributing](#contributing)
 - [File Organization](#file-organization)
 
