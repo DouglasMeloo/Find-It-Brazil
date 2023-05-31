@@ -222,6 +222,13 @@ https://douglasmeloo.github.io/Find-It-Brazil/
 
 -For more details and recommendations, please visit [Wave Web Accessibility Evaluation Report](https://wave.webaim.org/).
 
+## Debug
+
+- Description: Debugging is the process of identifying and fixing errors in software programs. It involves analyzing code to understand why it is not functioning as expected and making necessary adjustments to resolve issues. Debugging ensures software quality and improves performance.
+ - Unfixed bug: None
+ - Fixed bug: Add 'aria-label' to all <a href=""></a> elements
+ The fixed bug involved adding the 'aria-label' attribute to the <a href=""></a> links. This attribute is used to provide additional information or context to screen readers and assistive technologies. By including the 'aria-label' attribute, the links now have a descriptive text that helps users to understand the purpose or destination of the link. This improvement enhances accessibility and ensures that all users can navigate and interact with the software effectively.
+
 ## Contributing 
 
 We appreciate and welcome contributions to the project! To contribute, please follow these steps:
