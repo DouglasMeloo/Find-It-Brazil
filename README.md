@@ -119,49 +119,49 @@ on the button "Contact us".
 
 #### Home page - index.html <p align="right">[(Back to Top)](#top)</p>
 
-![home page Screenshot](/assets/images/homepagedesktop.webp)
+![home page Screenshot](/assets/images/homedesktop.webp)
 - Desktop Test:
   - Performance: 99
-  - Accessibility: 94
+  - Accessibility: 100
   - Best Practices: 100
   - SEO: 90
 
-![home page Screenshot](/assets/images/homepagemobile.webp)
+![home page Screenshot](/assets/images/homemobile.webp)
 - Mobile Test:
-  - Performance: 96
-  - Accessibility: 89
+  - Performance: 99
+  - Accessibility: 96
   - Best Practices: 100
   - SEO: 92
 
 #### Accommodation Details - details.html <p align="right">[(Back to Top)](#top)</p>
 
-![accommodation page Screenshot](/assets/images/detailspagedesktop.webp)
+![accommodation page Screenshot](/assets/images/detailsdesktop.webp)
 - Desktop Test:
-  - Performance: 100
-  - Accessibility: 80
+  - Performance: 99
+  - Accessibility: 91
   - Best Practices: 83
   - SEO: 100
 
-![accommodation page Screenshot](/assets/images/detailspagemobile.webp)
+![accommodation page Screenshot](/assets/images/detailsmobile.webp)
 - Mobile Test:
   - Performance: 96
-  - Accessibility: 86
+  - Accessibility: 94
   - Best Practices: 83
   - SEO: 100
 
 #### Online Packages -online.index <p align="right">[(Back to Top)](#top)</p>
  
-![online page Screenshot](/assets/images/onlinepagedesktop.webp)
+![online page Screenshot](/assets/images/onlinedesktop.webp)
 - Desktop Test:
-  - Performance: 95
-  - Accessibility: 85
+  - Performance: 96
+  - Accessibility: 94
   - Best Practices: 100
   - SEO: 100
 
-![online page Screenshot](/assets/images/onlinepagemobile.webp)
+![online page Screenshot](/assets/images/onlinemobile.webp)
 - Mobile Test:
-  - Performance: 97
-  - Accessibility: 91
+  - Performance: 90
+  - Accessibility: 98
   - Best Practices: 100
   - SEO: 100
 
@@ -183,17 +183,17 @@ on the button "Contact us".
 
 #### Thank You - thank-you.html <p align="right">[(Back to Top)](#top)</p>
  
-![thank you Screenshot](/assets/images/thankyoupagedesktop.webp)
+![thank you Screenshot](/assets/images/thankyoudesktop.webp)
 - Desktop Test:
   - Performance: 100
-  - Accessibility: 73
+  - Accessibility: 95
   - Best Practices: 100
   - SEO: 100
 
-![thank you Screenshot](/assets/images/thankyoupagemobile.webp)
+![thank you Screenshot](/assets/images/thankyoumobile.webp)
 - Mobile Test:
-  - Performance: 100
-  - Accessibility: 73
+  - Performance: 99
+  - Accessibility: 95
   - Best Practices: 100
   - SEO: 100
 
