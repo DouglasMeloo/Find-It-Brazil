@@ -216,11 +216,13 @@ on the button "Contact us".
  - Contrast Ratio: 8.59:1
  - WCAG AA: PASS
  - WCAG AAA: PASS
-
+![wave Screenshot](/assets/images/wavetest.webp)
  - Errors: 0
+ - Contrast Errors: 0
  - Alerts: 14
  - Features: 9
  - Structural Elements: 15
+ - ARIA: 16
 
 -For more details and recommendations, please visit [Wave Web Accessibility Evaluation Report](https://wave.webaim.org/).
 
