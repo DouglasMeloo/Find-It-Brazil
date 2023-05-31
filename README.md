@@ -169,14 +169,14 @@ on the button "Contact us".
 
 ![contact page Screenshot](/assets/images/contactusdesktop.webp)
 - Desktop Test:
-  - Performance: 99
+  - Performance: 100
   - Accessibility: 94
   - Best Practices: 100
   - SEO: 100
 
 ![contact page Screenshot](/assets/images/cantactusmobilee.webp)
 - Mobile Test:
-  - Performance: 100
+  - Performance: 99
   - Accessibility: 94
   - Best Practices: 100
   - SEO: 100
