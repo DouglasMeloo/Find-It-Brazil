@@ -216,6 +216,7 @@ on the button "Contact us".
  - Contrast Ratio: 8.59:1
  - WCAG AA: PASS
  - WCAG AAA: PASS
+
 ![wave Screenshot](/assets/images/wavetest.webp)
  - Errors: 0
  - Contrast Errors: 0
