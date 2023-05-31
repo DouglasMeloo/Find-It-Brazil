@@ -1,7 +1,7 @@
 # Find It Brazil
 ![Screenshot](./assets/images/homepage.webp)
 
-Find It Brazil is a web application designed to help users find a place to stay in Brazil. It provides a convenient and user-friendly interface for searching and booking accommodations in various cities across the country.
+Find It Brazil is a web application designed to help users find a place to stay in Brazil. 
 
 ## Table of Contents
 - [Description](#description)
@@ -15,7 +15,7 @@ Find It Brazil is a web application designed to help users find a place to stay 
 - [File Organization](#file-organization)
 
 ## Description
-The web application is a user-friendly platform designed to provide a seamless experience for its users. The website provides information on popular destinations, accommodation details and online packeges. Offering valuable tools and resources for people looking to stay in Brazil. With its intuitive interface and interactive features, the website makes it easy for you to get to know the place before you go and what to do. Whether you're on holiday or working trip. The website aims to prioritize user safety, comfort and cleanliness, ensuring a reliable and secure experience. It is designed to meet your needs efficiently and effectively.
+The website has been thoughtfully designed to offer the user a truly effortless and enjoyable experience. It provides information on popular destinations, accommodation details and online packages. Offering valuable tools and resources for people looking to stay in Brazil. The website makes easy with interactive features for you to get to know the cities and hotspots before you get there. Whether you're on holiday or working trip. The website aims to prioritize user safety, comfort and cleanliness, ensuring a reliable and secure experience.
 
 ## Features 
 ### Home Page - index.html 
@@ -35,14 +35,16 @@ The web application is a user-friendly platform designed to provide a seamless e
 
 - Description: The Accommodation Details page provides comprehensive information about the luxurious Copacabana Penthouse in Rio de Janeiro, Brazil. The page layout includes various section that offer a detailed overview of the
 rental unit and its features.
-- House Title and Ratings: The page begins with the house title, "Copacabana Penthouse," followed by a row displaying the rating of the accommodation. The rating is represented by stars, indicating an excellent guest experience, and the number of reviews, which stands at 365. The location of the penthouse is also mentioned, situated in the vibrant Copacabana neighborhood of Rio de Janeiro.
+- House Title and Ratings: The page begins with the house title, "Copacabana Penthouse," followed by a row displaying the rating of the accommodation. The rating is represented by stars, indicating an excellent guest experience, and the number of reviews, which stands at 365. The location is also mentioned, situated in Copacabana beach, Rio de Janeiro.
 - Image Gallery: A visually appealing gallery showcases multiple images of the penthouse, highlighting its breathtaking views, elegant living room, well-equipped kitchen, cozy bedrooms, and comfortable spaces for guests to enjoy during their stay.
-- Small Detaills: This section provides essential information about the accommodation, including details such as the hosting arrangement ("Entire rental unit hosted by Carlos"), the number of guests it can accommodate (4 guests), the number of beds available (2 beds), and the number of bathrooms (1 bathroom). Additionally, the nightly rate for the rental unit is stated as $200.
+- Small Detaills: Provides essential information about the accommodation, such as hosting arrangement, number of guests it can accommodate, number of bedrooms available and number of bathrooms. Also you can check the price per night to stay.
 - Details List: A list of key features is presented, including:
 1. Entire Home: Guests will have the entire apartment to themselves.
 2. Enhanced Clean: The host has committed to a thorough cleaning process.
 3. Great Location: The location has received a high rating from 95% of recent guests.
-4. Great Check-in Experience: 100% of recent guests have given the check-in process a 5-star rating.
+4. Great Check-in Experience: The check-in has received a high rating of 100% of recent guests.
+
+100% of recent guests have given the check-in process a 5-star rating.
 
 ![details Screenshot](/assets/images/accommodationdetailsmap.webp)
 - Home Description: A descriptive paragraph provides an overview of the penthouse. It highlights the luxurious aspects of the accommodation, such as the stunning beach views, 2 bedrooms, 1 bathroom, and the capacity to comfortably host up to 4 guests. The description emphasizes the harmonious blend of modern elegance and coastal charm, promising an unforgettable beachfront experience.
@@ -60,10 +62,10 @@ By presenting comprehensive details and visually appealing images, the "Accommod
 ### Contact Us - contact.html
 ![Contact Screenshot](/assets/images/contactuspagetop.webp)
 
-- Description: The "Contact Us" page provides a convenient way for users to get in touch with the website or business, to reach out for inquiries, feedback, or any other relevant matters. It includes a contact form where users can enter their information and send messages.
-- Submit Button: At the end of the form, there is a "Submit" button that users can click to submit their contact information and message.
-Upon submitting the form, users will be redirected to a page called "thank-you.html" (presumably a thank-you page) indicating that their message has been successfully received.
-Once on the "thank you page" After 3 seconds the page will bring you back to home page.
+- Description: The 'Contact Us' page has been thoughtfully designed for user to get in touch, reaching out for inquiries, feedback or any other revelant matters. It has a contact form where users
+can enter their information and send messages.
+- Submit Button: At the end of the form there is a "Submit" button where users can click to submit their contact information and send a message. Once submitted user will be redirected to the
+"thank you" page, indicating that their message has been successfully received. Once on the "thank you page" After 3 seconds the page will bring you back to home page.
 
 ### Thank You - thank-you.html <p align="right">[(Back to Top)](#top)</p>
 
@@ -75,20 +77,20 @@ Once on the "thank you page" After 3 seconds the page will bring you back to hom
 ## Deployment
 
 - Clone the Repository: Open your command line or terminal and run the following command to clone the repository to your local machine: git clone https://github.com/DouglasMeloo/Find-It-Brazil.git
-- Navigate to the Project Directory: Change to the project directory by running the 
-following command: cd Find-It-Brazil
+- Navigate to the Project Directory: Change to the project directory by running the following command: cd Find-It-Brazil
 - Access the Deployed Web Application: You can access it using the following URL: 
 https://douglasmeloo.github.io/Find-It-Brazil/
 
 ## Usage 
 
-- This web application consists of multiple pages that serve different purposes. Here is a list of the available pages:
+- This web application consists of multiple pages that serve different purposes. 
 1. Home Page: This is the landing page of the web application. It provides an overview of the website and its purpose. You can access it by navigating to the following URL: https://douglasmeloo.github.io/Find-It-Brazil/
 2. Click on 'click here' or 'Know more' on Cities links to know more about it and what to do.
 3. Navigate through the menu options to explore different sections.
-4. About Page: The About page provides detailed information about the website and its features. It gives users an understanding of how the platform works and what it offers. You can access it by clicking on the "About" link in the navigation menu on the Home page.
+4. About Page: The About page provides detailed information about the website and its features. It gives users an understanding of how the platform works and what it offers.
 5. Online Packages Page: The Online Packages page showcases different accommodation options available in Brazil. It displays images, descriptions, and pricing information for each package. You can access it by clicking on the "Packages" link in the navigation menu on the Home page.
-6. Contact Us Page: The Contact Us page allows users to get in touch with the website administrators. It features a contact form where users can enter their details and send messages. You can access it by clicking on the "Contact Us" link in the navigation menu on the Home page.
+6. Contact Us Page: The Contact Us page allows users to get in touch with the website. It features a contact form where users can enter their details and send messages. You can access it by clicking 
+on the button "Contact us".
 7. Thank You Page: The Thank You page is displayed after submitting a message through the Contact Us page. It provides a confirmation message and informs users that their message has been received. The page also includes a note about when they can expect a response. You can access it after submitting a message through the Contact Us form.
 
 - That's it! You can now use the web application to learn more about the website, explore accommodation options, and contact the administrators if needed. Enjoy your experience!
